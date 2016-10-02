@@ -1,0 +1,14 @@
+TODO Question 2:
+
+Part #1- Preprocessing data 
+-> Fill in missing NA values
+-> Parse datetime
+-> Get the one-hot encoding of the categorical features
+-> Normalize the numerical features
+-> Document this and write neater code
+-> Take care of the 12 PM case in the submission
+
+Part #2- Creating the features
+-> Combine the two files and understand the problem
+-> Think of how to approach the problem
+-> Create features and see classifiers suitable for this data
